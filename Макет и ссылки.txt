@@ -1,0 +1,5 @@
+
+➖ Репозиторий с кодом проекта: https://github.com/aleksanderlamkov/k...
+➖ Сервис для поиска шрифтов Google Fonts: https://fonts.google.com/
+➖ Сервис для преобразования файлов шрифтов в нужный формат: https://transfonter.org/
+https://www.figma.com/file/m3lT3GF4mUgEBaU3qysyeu/10%2B-Free-Web-UI-designs-(Community)?type=design&node-id=0-1&mode=design&t=ZzRArEohw7QpUQkb-0
